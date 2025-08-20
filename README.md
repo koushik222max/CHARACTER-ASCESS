@@ -17,7 +17,7 @@ This Python script defines a class Koushik_Raj that doesn’t just say hello —
 
 Example:
 
-hello world, my name is koushik
+hello world, my name is koushik 😉
 ---------
 🚀 Call To Action
 
